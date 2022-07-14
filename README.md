@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**EugeneKhomitskiy/EugeneKhomitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Привет! Я Хомицкий Евгений, Android разработчик
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝🏻 &nbsp;Связь со мной
+
+📧 mtl_87@list.ru
+
+📲 https://t.me/che_Jack
+
+
+### 🛠 &nbsp;Стек
+
+✅ Java · Kotlin · Android SDK · Android Studio · MVP · MVVM · SOLID · ООП · SQLite · Room · OkHttp · Retrofit · Material Design · Firebase · Coroutines · Flow · Hilt · Paging · Google maps · Yandex MapKit · MediaPlayer · Git
+
+
+### 👨🏻‍🎓 &nbsp;Cертификаты
+
+📄 Android-разработчик с нуля https://github.com/EugeneKhomitskiy/EugeneKhomitskiy/blob/main/certificate.pdf
+
+📄 Основы Java https://github.com/EugeneKhomitskiy/EugeneKhomitskiy/blob/main/certificate-2.pdf
+
+📄 GIT - система контроля версий https://github.com/EugeneKhomitskiy/EugeneKhomitskiy/blob/main/certificate-3.pdf
+
+📄 Разработка приложений на Kotlin https://github.com/EugeneKhomitskiy/EugeneKhomitskiy/blob/main/certificate-4.pdf
+
+📄 Программирование на Kotlin под Android https://github.com/EugeneKhomitskiy/EugeneKhomitskiy/blob/main/certificate-6.pdf
+
+📄 Промышленная разработка под Android https://github.com/EugeneKhomitskiy/EugeneKhomitskiy/blob/main/certificate-7.pdf
+
+📄 Продвинутая разработка под Andriod https://github.com/EugeneKhomitskiy/EugeneKhomitskiy/blob/main/certificate-8.pdf
+
