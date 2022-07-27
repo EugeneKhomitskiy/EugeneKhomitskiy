@@ -4,9 +4,9 @@
 
 ### 🤝🏻 &nbsp;Связь со мной
 
-📧 mtl_87@list.ru
+📧 e.khomitskiy@list.ru
 
-📲 https://t.me/che_Jack
+📲 https://t.me/e_khomitskiy
 
 
 ### 🛠 &nbsp;Стек
